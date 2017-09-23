@@ -1,4 +1,4 @@
-export const datosVentana =[
+export const datosSlider =[
     {
         "id":0,
         "nombre":"Angular",
