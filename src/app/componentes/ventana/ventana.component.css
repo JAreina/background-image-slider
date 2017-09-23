@@ -1,0 +1,18 @@
+.container{
+    margin:0 auto;
+   
+}
+
+.fondo{
+    width:100px;
+    height: 100px;
+    background-size: cover;
+    box-sizing: content-box;
+    border:1px solid gold;
+    cursor: pointer;
+    
+}
+.texto{
+    border:1px solid gold;
+    display: inline;
+}
